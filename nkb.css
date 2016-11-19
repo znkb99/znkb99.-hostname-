@@ -1,0 +1,39 @@
+/*  add your styles below/Users/znkb/Documents/CSS-intro-with-GitHub-2016/assignment/styles/first.css
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #333; /* change */
+    color: #fff; /* change */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete */
+}
+
+header{
+background-color:#479bcc;}
+
+footer{
+background-color:#479bcc;}
+
+article{
+  background-color:#cc7647;
+}
+
+aside{
+  background-color:#ccb847;
+}
+
+body p{color:black;}
+
+.s1{ background-color: white; }
+footer a:link { color: #c363b2; }
+/* add your styles here */
+
+/* add your pseudo classes below this line */
